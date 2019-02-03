@@ -1,0 +1,2 @@
+cd /home/ben/projet/md results
+make > ./results/Build_Result.txt 2> ./results/Build_Errors.txt

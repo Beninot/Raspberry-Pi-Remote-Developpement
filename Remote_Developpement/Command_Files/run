@@ -1,0 +1,2 @@
+cd /home/ben/projet/
+./main > ./results/Run_Result.txt 2> ./results/Run_Error.txt &

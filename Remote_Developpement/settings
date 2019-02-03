@@ -1,0 +1,4 @@
+IP=192.168.2.29
+USER=ben
+PATH=/home/ben/projet/
+EXECUTABLE=main
